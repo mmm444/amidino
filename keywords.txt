@@ -1,0 +1,24 @@
+amidino	KEYWORD1
+amidino.h	KEYWORD1
+MidiParser	KEYWORD1
+
+setChannel	KEYWORD2
+getChannel	KEYWORD2
+parse	KEYWORD2
+setNoteOnHandler	KEYWORD2
+setNoteOffHandler	KEYWORD2
+setAfterTouchHandler	KEYWORD2
+setControlChangeHandler	KEYWORD2
+setProgramChangeHandler	KEYWORD2
+setChannelPressureHandler	KEYWORD2
+setPitchWheelHandler	KEYWORD2
+setClockHandler	KEYWORD2
+setTickHandler	KEYWORD2
+setStartHandler	KEYWORD2
+setContinueHandler	KEYWORD2
+setStopHandler	KEYWORD2
+setActiveSenseHandler	KEYWORD2
+setResetHandler	KEYWORD2
+convertPitch	KEYWORD2
+
+MIDI_OMNI	LITERAL1
